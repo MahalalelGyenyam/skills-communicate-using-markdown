@@ -14,3 +14,6 @@ In this new commit, I added some headers to this index markdown page. They can g
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
