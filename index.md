@@ -17,3 +17,7 @@ In this new commit, I added some headers to this index markdown page. They can g
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Start this assignment
+- [ ] Work furiously
+- [ ] This Assignment is not complete
